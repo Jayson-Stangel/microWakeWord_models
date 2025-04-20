@@ -1,0 +1,16 @@
+{
+    "type": "micro",
+    "wake_word": "Tinkerbell",
+    "author": "Jayson Stangel",
+    "website": "https://whereisjayson.alwaysexploring.org/",
+    "model": "tinkerbell - micro.tflite",
+    "version": 1,
+    "trained_languages": ["en"],
+    "micro": {
+      "probability_cutoff": 0.97,
+      "sliding_window_size": 5,
+      "feature_steSp_size": 10,
+      "tensor_arena_size": 22860,
+      "minimum_esphome_version": "2024.7"
+    }
+  }
