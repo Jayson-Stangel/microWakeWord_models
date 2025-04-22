@@ -3,8 +3,8 @@
     "wake_word": "Tinkerbell",
     "author": "Jayson Stangel",
     "website": "https://whereisjayson.alwaysexploring.org/",
-    "model": "tinkerbell - micro.tflite",
-    "version": 1,
+    "model": "tinkerbell_micro.tflite",
+    "version": 0.1,
     "trained_languages": ["en"],
     "micro": {
       "probability_cutoff": 0.97,
