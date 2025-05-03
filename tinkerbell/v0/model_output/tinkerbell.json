@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "tinkerbell",  # Adjust this if the target_word changes dynamically
+  "wake_word": "tinkerbell",
   "author": "Jayson Stangel",
   "website": "https://github.com/Jayson-Stangel/microWakeWord_models",
   "model": "tinkerbell_micro.tflite",
